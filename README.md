@@ -2,7 +2,9 @@
 Test automations to test https://api.tmsandbox.co.nz/v1/Categories/6327/Details.json?catalogue=false. 
 
 ## Description
-Have added main automation test scenarios to test the given API.
+This test automation project has done using *Java 8* using *REST Assured* which allows to integrate with testing frameworks like *Junit* or *TestNG*.
+
+This contains main automation test scenarios to test the given API.
 Mainly covers following acceptance criterias:
 * Name = "Carbon credits"
 * CanRelist = true
